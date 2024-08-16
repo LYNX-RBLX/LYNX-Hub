@@ -33,7 +33,7 @@
 </p>
 
 <ol align="center" style="font-size: 16px; line-height: 1.6; font-family: Arial, sans-serif;">
-    <li>Go to <a href="https://example.com" target="_blank" style="color: #00f; text-decoration: none; font-weight: bold;">this website</a>.</li>
+    <li>Go to <a href="https://lynx-hub.netlify.app" target="_blank" style="color: #00f; text-decoration: none; font-weight: bold;">this website</a>.</li>
     <li>Enter the verification code: <strong>5210e059-a9c1-43c2-b9ad-53b364f09867</strong></li>
     <li>Once verified, return to this page to receive your key.</li>
 </ol>
