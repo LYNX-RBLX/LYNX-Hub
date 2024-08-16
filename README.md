@@ -37,12 +37,8 @@
 <ol align="center" style="font-size: 16px; line-height: 1.6; font-family: Arial, sans-serif;">
     <li>Go to <a href="https://lynx-hub.netlify.app" target="_blank" style="color: #00f; text-decoration: none; font-weight: bold;">this website</a>.</li>
     <li>Enter the verification code: <strong>5210e059-a9c1-43c2-b9ad-53b364f09867</strong></li>
-    <li>Once verified, return to this page to receive your key.</li>
+    <li>After completing the verification, you will be able to generate your key to access LYNX Hub.</li>
 </ol>
-
-<p align="center" style="font-size: 18px;">
-    After completing the verification, you will be able to generate your key to access LYNX Hub.
-</p>
 
 <hr style="border: none; border-top: 1px solid #ccc; margin-top: 20px;">
 
