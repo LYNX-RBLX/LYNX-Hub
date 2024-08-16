@@ -19,7 +19,25 @@
 <h3 align="center" style="font-family: 'Courier New', Courier, monospace;">How To Launch:</h3>
 
 <p align="center" style="font-size: 16px; font-family: 'Courier New', Courier, monospace; background: #1e1e1e; padding: 10px; border-radius: 5px;">
-<code>loadstring(game:HttpGet('https://github.com/LYNX-RBLX/LYNX-Hub/blob/main/script.lua'))()</code>
+    <code>loadstring(game:HttpGet('https://github.com/LYNX-RBLX/LYNX-Hub/blob/main/script.lua'))()</code>
+</p>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin-top: 20px;">
+
+<h3 align="center" style="font-family: 'Courier New', Courier, monospace;">Verification Process:</h3>
+
+<p align="center" style="font-size: 16px;">
+    To get your LYNX Hub key, please follow these steps:
+</p>
+
+<ol align="center" style="font-size: 16px; line-height: 1.6; font-family: Arial, sans-serif;">
+    <li>Go to <a href="https://example.com" target="_blank" style="color: #00f; text-decoration: none; font-weight: bold;">this website</a>.</li>
+    <li>Enter the verification code: <strong>5210e059-a9c1-43c2-b9ad-53b364f09867</strong></li>
+    <li>Once verified, return to this page to receive your key.</li>
+</ol>
+
+<p align="center" style="font-size: 18px;">
+    After completing the verification, you will be able to generate your key to access LYNX Hub.
 </p>
 
 <p align="center" style="font-size: 18px;">
@@ -31,5 +49,3 @@
         Stay tuned for more updates as we continue to improve and expand LYNX Hub.
     </span>
 </p>
-
-<hr style="border: none; border-top: 1px solid #ccc; margin-top: 20px;">
