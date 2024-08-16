@@ -26,7 +26,4 @@
 </p>
 
 <hr style="border: none; border-top: 1px solid #ccc; margin-top: 20px;">
-
-<p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Glitter_Animation.gif/800px-Glitter_Animation.gif" width="50" height="50">
 </p>
