@@ -42,6 +42,8 @@
     After completing the verification, you will be able to generate your key to access LYNX Hub.
 </p>
 
+<hr style="border: none; border-top: 1px solid #ccc; margin-top: 20px;">
+
 <p align="center" style="font-size: 18px;">
     We also use an advanced UI Library, <a href="https://docs.sirius.menu/rayfield" style="color: #00f; text-decoration: none; font-weight: bold;">Rayfield</a>.
 </p>
