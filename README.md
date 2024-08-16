@@ -23,7 +23,7 @@
 <h3 align="center" style="font-family: 'Courier New', Courier, monospace;">How To Launch:</h3>
 
 <p align="center" style="font-size: 16px; font-family: 'Courier New', Courier, monospace; background: #1e1e1e; padding: 10px; border-radius: 5px;">
-    <code>loadstring(game:HttpGet('https://github.com/LYNXPLOITS/LYNX-Hub/blob/main/script.lua'))()</code>
+    <code>loadstring(game:HttpGet('https://raw.githubusercontent.com/LYNXPLOITS/LYNX-Hub/main/script.lua'))()</code>
 </p>
 
 <hr style="border: none; border-top: 1px solid #ccc; margin-top: 20px;">
