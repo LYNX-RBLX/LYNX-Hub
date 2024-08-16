@@ -1,15 +1,32 @@
-# <div align="center">
-    <span style="font-size: 2.5em; background: linear-gradient(45deg, #9b5de5, #00bbf9); -webkit-background-clip: text; color: transparent;">LYNX Hub</span>
-</div>
+<h1 align="center" style="font-size: 48px; background: linear-gradient(90deg, #8a2be2, #4b0082); -webkit-background-clip: text; color: transparent;">
+    LYNX Hub
+</h1>
+<h2 align="center" style="background: linear-gradient(90deg, #8a2be2, #4b0082); -webkit-background-clip: text; color: transparent;">
+    Advanced Roblox Exploit Hub
+</h2>
 
-## <div align="center">
-    <span style="font-size: 1.5em; background: linear-gradient(45deg, #9b5de5, #00bbf9); -webkit-background-clip: text; color: transparent;">Advanced Roblox Exploit Hub</span>
-</div>
+<p align="center">🚧 <strong>UNDER DEVELOPMENT!</strong> 🚧</p>
 
-<p align="center" style="font-size: 1.2em; color: #fff; text-shadow: 0 0 5px #fff;">
-    🚧 UNDER DEVELOPMENT!
+<h3 align="center" style="font-family: 'Courier New', Courier, monospace;">Features:</h3>
+
+<ul style="font-size: 16px; line-height: 1.6; font-family: Arial, sans-serif;">
+    <li>✨ <strong style="color: #8a2be2;">Infinite Yield</strong>: Full command line control with a powerful admin command script.</li>
+    <li>✨ <strong style="color: #8a2be2;">Infinite Jump</strong>: Customize your jumping experience with no limits.</li>
+    <li>✨ <strong style="color: #8a2be2;">Jump Power & Walk Speed Sliders</strong>: Adjust your character’s abilities with easy-to-use sliders.</li>
+</ul>
+
+<p align="center" style="font-size: 18px;">
+    We also use an advanced UI Library, <a href="https://docs.sirius.menu/rayfield" style="color: #00f; text-decoration: none; font-weight: bold;">Rayfield</a>.
 </p>
 
+<p align="center" style="font-size: 18px;">
+    <span style="background: linear-gradient(90deg, #8a2be2, #4b0082); -webkit-background-clip: text; color: transparent;">
+        Stay tuned for more updates as we continue to improve and expand LYNX Hub.
+    </span>
+</p>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin-top: 20px;">
+
 <p align="center">
-    <span style="font-size: 1.2em; color: #00bbf9;">We also use an advanced UI Library, <a href="https://docs.sirius.menu/rayfield" style="color: #00bbf9; text-decoration: none; font-weight: bold;">Click Here</a>!</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Glitter_Animation.gif/800px-Glitter_Animation.gif" width="50" height="50">
 </p>
