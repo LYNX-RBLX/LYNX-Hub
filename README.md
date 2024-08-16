@@ -1,4 +1,4 @@
-#                                 LYNX Hub
-##                        Advanced Roblox Exploit Hub
+# LYNX Hub
+## Advanced Roblox Exploit Hub
 
-# 🚧 UNDER DEVELOPMENT!
+### 🚧 UNDER DEVELOPMENT!
