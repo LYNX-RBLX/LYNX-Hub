@@ -11,7 +11,7 @@
 
 <ul align="center" style="font-size: 16px; line-height: 1.6; font-family: Arial, sans-serif;">
     <li>✨ <strong style="color: #8a2be2;">Infinite Yield</strong>: A powerful admin exploit GUI that gives you command-line control with a full suite of admin commands.</li>
-    <li>✨ <strong style="color: #8a2be2;">Infinite Jump</strong>: Keep jumping endlessly without gravity until you stop, providing a unique gameplay experience.</li>
+    <li>✨ <strong style="color: #8a2be2;">Infinite Jump</strong>: Keep jumping endlessly without gravity until you stop, providing a unique exploiting experience.</li>
     <li>✨ <strong style="color: #8a2be2;">Jump Power & Walk Speed Sliders</strong>: Easily adjust your character’s jump power and walk speed with intuitive sliders.</li>
 </ul>
 
