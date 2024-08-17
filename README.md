@@ -28,7 +28,7 @@
 
 <hr style="border: none; border-top: 1px solid #ccc; margin-top: 20px;">
 
-<h3 align="center" style="font-family: 'Courier New', Courier, monospace;">Verification Process:</h3>
+<h3 align="center" style="font-family: 'Courier New', Courier, monospace;">[KEY SYSTEM DISABLED FOR NOW] Verification Process:</h3>
 
 <p align="center" style="font-size: 16px;">
     To get your LYNX Hub key, please follow these steps:
