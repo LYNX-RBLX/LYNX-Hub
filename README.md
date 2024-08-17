@@ -2,7 +2,7 @@
     LYNX Hub
 </h1>
 <h2 align="center" style="background: linear-gradient(90deg, #8a2be2, #4b0082); -webkit-background-clip: text; color: transparent;">
-    Advanced Roblox Exploit Hub
+    Advanced Keyless Roblox Exploit Hub
 </h2>
 
 <p align="center">🚧 <strong>UNDER DEVELOPMENT!</strong> 🚧</p>
