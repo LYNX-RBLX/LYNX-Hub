@@ -16,6 +16,7 @@
     <li>✨ <strong style="color: #8a2be2;">Infinite Jump</strong>: Customize your jumping experience with no limits.</li>
     <li>✨ <strong style="color: #8a2be2;">Jump Power & Walk Speed Sliders</strong>: Adjust your character’s abilities with easy-to-use sliders.</li>
     <li>✨ <strong style="color: #8a2be2;">Supports Mobile and PC</strong>: Seamless experience across all devices.</li>
+<li>✨ <strong style="color: #8a2be2;">And a lot more!</strong>: Lots of features to explore!</li>
 </ul>
 
 <hr style="border: none; border-top: 1px solid #ccc; margin-top: 20px;">
