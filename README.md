@@ -28,18 +28,10 @@
 
 <hr style="border: none; border-top: 1px solid #ccc; margin-top: 20px;">
 
-<h3 align="center" style="font-family: 'Courier New', Courier, monospace;">[KEY SYSTEM DISABLED FOR NOW]</h3>
+<h3 align="center" style="font-family: 'Courier New', Courier, monospace;">Website:</h3>
 
-<p align="center" style="font-size: 16px;">
-    To get your LYNX Hub key, please follow these steps:
-</p>
-
-<ol align="center" style="font-size: 16px; line-height: 1.6; font-family: Arial, sans-serif;">
-    <li>Go to <a href="https://lynx-hub.netlify.app" target="_blank" style="color: #00f; text-decoration: none; font-weight: bold;">this website</a>.</li>
-    <li>Enter the verification code: <strong>5210e059-a9c1-43c2-b9ad-53b364f09867</strong></li>
-    <li>After completing the verification, you will be able to generate your key to access LYNX Hub.</li>
-</ol>
-
+<a href="https://lynx-hub.netlify.app" target="_blank" style="color: #00f; text-decoration: none; font-weight: bold;">LYNX Hub Website</a>
+ 
 <hr style="border: none; border-top: 1px solid #ccc; margin-top: 20px;">
 
 <p align="center" style="font-size: 18px;">
