@@ -30,7 +30,9 @@
 
 <h3 align="center" style="font-family: 'Courier New', Courier, monospace;">Website:</h3>
 
-<a href="https://lynx-hub.netlify.app" target="_blank" style="color: #00f; text-decoration: none; font-weight: bold;">LYNX Hub Website</a>
+<p align="center" style="background: linear-gradient(90deg, #8a2be2, #4b0082); -webkit-background-clip: text; color: transparent;">
+    <a href="https://lynx-hub.netlify.app" target="_blank" style="color: #00f; text-decoration: none; font-weight: bold;">LYNX Hub Website</a>
+</h2>
  
 <hr style="border: none; border-top: 1px solid #ccc; margin-top: 20px;">
 
